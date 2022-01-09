@@ -1,7 +1,7 @@
 # Deleterious-synonymous-mutations-from-literature
 
 ### DeleteriousSynonymousMutations_hg38.vcf
-  The PredDSM tool predicts deleterious synonymous mutations. http://preddsm.xialab.info/
+  The PredDSM tool predicts deleterious synonymous mutations. http://frdsm.xialab.info/
 
 ### BenignSynonymousMutation_hg38.vcf
   The PredDSM tool predicts benign synonymous mutations. 

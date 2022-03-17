@@ -1,4 +1,4 @@
-# Deleterious-synonymous-mutations-from-literature
+# Dataset of Deleterious Synonymous Mutations based on Literature Sources(DSM-LS)
 
 ### DeleteriousSynonymousMutations_hg38.vcf
   The frDSM tool predicts deleterious synonymous mutations. http://frdsm.xialab.info/
